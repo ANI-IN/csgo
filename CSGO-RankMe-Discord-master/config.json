@@ -2,7 +2,7 @@
     "discordBot": {
         "enabled": true,
         "prefix": "!",
-        "owner": "220554523561820160",
+        "owner": "507923150588215321",
         "minimumKillsBeforeStatsCalc": "20",
         "stats_showMedals": false
     }
